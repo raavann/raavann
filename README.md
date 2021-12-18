@@ -1,6 +1,6 @@
 <img alt="Hello" src="https://media4.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47dgofn8w6eqsz8lsx4fpm6d1kjv3i0wdprj2eu2e6&rid=giphy.gif&ct=g" />
 <h2> 
-<img src="https://media0.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif?cid=790b76113845e1515e9a768b7f4a677f29364c352fe098c8&rid=giphy.gif&ct=g)" width="50"> Hey there! I'm Anurudh! </h2>
+<img src="./assets/hi.gif" width="50"> Hey there! I'm Anurudh! </h2>
 
 
 ### 👨🏻‍💻 About Me
@@ -10,9 +10,9 @@
 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design and Mobile app development.\
 ✍️ If you don't find me staring at my laptop, then I'm probably trying my hands at something new.\
 💬 Talk to me about Anime anytime, I'll be sure to reply if I'm alive.\
-🎶 [This](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) is my on of the fav songs.
+🎶 [This](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) is my one of the fav songs.
 
-<img alt="Night Coding" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611264248bff62eb3d1938f196733ba9030a16f9963&rid=giphy.gif&ct=g" align="right" width=40%/>
+<img alt="git" src="./assets/git.gif" align="right" width=40%/>
 
 ### 🛠 Tech Stack
 
